@@ -46,7 +46,7 @@ public class Test {
 
         Supplier<HashMap<String, Integer>> supplier = HashMap::new;
         supplier.get();
-        //d
+
 
 
 
